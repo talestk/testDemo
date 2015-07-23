@@ -1,4 +1,4 @@
 # testDemo
-This is just a src for a Selenium/Java demo.
+This is just the source files for a Selenium/Java demo.
 
 
